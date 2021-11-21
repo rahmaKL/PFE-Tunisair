@@ -1,0 +1,144 @@
+.formconnexion {
+  margin-top: 60px;
+}
+
+body .right_col {
+  padding-top: 120px;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: rgb(130, 212, 236);
+}
+
+body .section-personnel {
+  color: white;
+}
+
+body .section-personnel .fade {
+  opacity: 1;
+}
+
+.section-personnel .alert-danger {
+  color: white;
+  background-color: #721c24;
+}
+
+.section-personnel .label {
+  padding-left: 5px;
+  padding-right: 5px;
+}
+
+.section-personnel input[type="radio"] {
+  height: 20px;
+  width: 20px;
+}
+
+body .right_col {
+  top: 30px;
+  left: 5%;
+  position: absolute;
+  width: 93%;
+  margin: auto;
+}
+
+body th, td {
+  color: #fff;
+}
+
+.ticket {
+  border: 3px solid #8fa8be;
+  border-radius: 5px;
+  color: #000;
+  padding: 13px;
+  width: 60%;
+  background-color: #fff;
+}
+
+.ticket h1 {
+  color: #000;
+}
+
+.ticket-body {
+  background-color: #ecf1f7;
+  border-left: 2px solid #8fa8be;
+  border-right: 2px solid #8fa8be;
+}
+
+.ticket-body .ticket-col {
+  padding-top: 35px;
+}
+
+.ticket-label {
+  color: #5f84ae;
+  font-weight: bold;
+  font-size: 16px;
+}
+
+.ticket-time {
+  margin-top: 35px;
+}
+
+.ticket-time, .ticket-date {
+  color: #5f84ae;
+  font-weight: bold;
+  font-size: 16px;
+  width: 100%;
+  text-align: right;
+  padding-right: 10px;
+}
+
+.ticket-border {
+  border-right: 1px solid #525051
+}
+
+.ticket-pays {
+  font-size: 32px;
+}
+
+.ticket-pays {
+  font-weight: bold;
+  font-size: 55px;
+  width: 100%;
+}
+
+.ticket-aerport {
+  font-weight: normal;
+  font-size: 20px;
+  width: 100%;
+}
+
+.ticket-from {
+  text-align: right;
+}
+
+.ticket-fly {
+  text-align: center;
+}
+
+.ticket-fly i {
+  transform: rotate(45deg);
+  font-size: 90px;
+  margin-top: 15px;
+}
+
+.code-a-barre {
+  background-image: url(../img/codeabarre.png);
+  background-position: center -49px;
+  background-repeat: no-repeat;
+}
+
+.form-reservation {
+  background-color: #babbc3ba; 
+}
+.form-reclamation {
+  background-color: #babbc3ba; 
+}
+.form-info {
+  background-color: #babbc3ba; 
+}
+.form-justif {
+  background-color: #babbc3ba; 
+}
+.foot{
+  text-align: center;
+}
